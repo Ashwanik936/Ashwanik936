@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/ashwanik332" target="blank"><img src="https://img.shields.io/twitter/follow/ashwanik332?logo=twitter&style=for-the-badge" alt="ashwanik332" /></a> </p>
 <p align="left"> <a href="https://twitter.com/Interstaller7" target="blank"><img src="https://img.shields.io/twitter/follow/Interstaller7?logo=twitter&style=for-the-badge" alt="Interstaller7" /></a> </p>
-- 👨‍💻 All of my projects are available at [https://discord.gg/g5CeXwtyDC] (https://discord.gg/g5CeXwtyDC)
+- 👨‍💻 All of my projects are available at https://discord.gg/g5CeXwtyDC
 
-- 📝 I regularly write articles on [https://interstaller.up.railway.app/](https://interstaller.up.railway.app/)
+- 📝 I regularly write articles on https://ashwani.online
 
 - 💬 Ask me about **NodeJs, Python🐍**
 
